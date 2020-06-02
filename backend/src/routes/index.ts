@@ -1,7 +1,16 @@
+/* eslint-disable camelcase */
 import { Router } from 'express';
 
+import PointsController from '../controller/PointsController';
+import ItemsController from '../controller/ItemsController';
+
 const routes = Router();
+const pointsController = new PointsController();
+const itemsController = new ItemsController();
 
-routes.get('/', (request, response) => response.json({ message: 'Helo World' }));
+routes.get('/items', itemsController.index);
 
+routes.post('/points', pointsController.create);
+routes.get('/points', pointsController.index);
+routes.get('/points/:id', pointsController.show);
 export default routes;

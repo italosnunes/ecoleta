@@ -11,8 +11,8 @@
 - [English](#index) 🇺🇸
 ---
 # Indice
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Baixando o projeto](#baixando-o-projeto)
 ---
 ## 📖 Sobre 
@@ -102,8 +102,8 @@ Desenvolvido por **Italo da Silva Nunes**
 
 
 # Index
-- [About](#about)
-- [Technologies Used](#technologies-used)
+- [About](#-about)
+- [Technologies Used](#-technologies-used)
 - [Download Project](#download-project)
 
 ---

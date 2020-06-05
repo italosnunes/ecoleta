@@ -13,7 +13,7 @@
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Baixando o projeto](#baixando-o-projeto)
+- [Baixando o projeto](#-baixando-o-projeto)
 ---
 ## 📖 Sobre 
 
@@ -35,7 +35,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Expo
 
 ---
-## 💥  Baixando o projeto
+## 💥 Baixando o projeto
 
 ```bash
  #clonar o repositório
@@ -104,7 +104,7 @@ Desenvolvido por **Italo da Silva Nunes**
 # Index
 - [About](#-about)
 - [Technologies Used](#-technologies-used)
-- [Download Project](#download-project)
+- [Download Project](#-download-project)
 
 ---
 ## ℹ️ About
@@ -125,7 +125,7 @@ Application developed on web and mobile platforms.
 - Expo
 
 ---
-## 💥  Download Project
+## 💥 Download Project
 
 ```bash
  #clone the repository

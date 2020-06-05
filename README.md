@@ -7,8 +7,8 @@
 </h1>
 
 # Idioma - Language
-- [Português](#-indice) 🇧🇷
-- [English](#-index) 🇺🇸
+- [Português](#indice) 🇧🇷
+- [English](#index) 🇺🇸
 ---
 # Indice
 - [Sobre](#-sobre)
